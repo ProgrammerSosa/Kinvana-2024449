@@ -16,7 +16,7 @@ import java.util.Scanner;
 
 
 
-@SpringBootApplication
+// @SpringBootApplication
 public class KivanaApplication implements CommandLineRunner {
     // Inyección de dependencias
     @Autowired
